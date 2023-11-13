@@ -22,8 +22,8 @@ Intoduce a Main function, in the main method declare the required variables and 
 Save the program and execute it .
 ## Program
 ```python
-# Developed By    : SATHISH R
-# Register Number : 212222230138
+ Developed By    : SATHISH R
+ Register Number : 212222230138
 ```
 ```cuda
 #include <stdio.h>
